@@ -195,26 +195,7 @@ blockquote:before {
 HEADER
 ******************************************/
 
-.topbar {
-    background-color: #000;
-    margin-bottom: 30px;
-    padding: 12px 0 14px;
-}
 
-.topbar a,
-.topbar p {
-    color: #fff;
-    font-size: 14px;
-    margin: 0;
-}
-
-.topbar .text-left p {
-    margin-top: 3px;
-}
-
-.topbar .text-left i {
-    padding-right: 3px;
-}
 
 .header {
     position: absolute;
